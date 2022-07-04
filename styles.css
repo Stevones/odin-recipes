@@ -1,0 +1,38 @@
+.tahoma {
+font-family: Tahoma;
+
+}
+
+.title {
+
+    background-color: aqua;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
+
+.link {
+background-color: beige;
+
+}
+
+html {background-color: darkgoldenrod;}
+
+
+.box {
+    padding: 10px;
+    
+margin: 0 3em 0 3em;
+    border: 10px solid lightblue;
+
+    
+}
+
+.box1 {
+    padding: 10px;
+    border: 10px solid darkcyan;
+    margin:  0 0 100px 0;
+    
+    
+    
+}
